@@ -21,3 +21,7 @@ services:
         sync: false
       - key: WEB_CONCURRENCY
         value: 2 # sensible default
+      - key: USER_EMAIL
+        value: "dothanhdoan@gmail.com" 
+      - key: USER_PASSWORD
+        value: "dothanhdoan" 
